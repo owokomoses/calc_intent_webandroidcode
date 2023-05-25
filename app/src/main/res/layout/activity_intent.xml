@@ -9,91 +9,91 @@
 
     <Button
         android:id="@+id/btn_sms"
-        android:layout_width="240dp"
-        android:layout_height="42dp"
+        android:layout_width="360dp"
+        android:layout_height="53dp"
         android:backgroundTint="#F44336"
         android:text="SMS"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.169"
+        app:layout_constraintHorizontal_bias="0.49"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.272" />
+        app:layout_constraintVertical_bias="0.262" />
 
     <Button
         android:id="@+id/btn_call"
-        android:layout_width="227dp"
-        android:layout_height="39dp"
+        android:layout_width="356dp"
+        android:layout_height="48dp"
         android:backgroundTint="#C31CDF"
         android:text="CALL"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.168"
+        app:layout_constraintHorizontal_bias="0.46"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.387" />
+        app:layout_constraintVertical_bias="0.397" />
 
     <Button
         android:id="@+id/btn_camera"
-        android:layout_width="209dp"
-        android:layout_height="39dp"
+        android:layout_width="357dp"
+        android:layout_height="47dp"
         android:backgroundTint="#61A90F"
         android:text="CAMERA"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.153"
+        app:layout_constraintHorizontal_bias="0.462"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
     <Button
         android:id="@+id/btn_share"
-        android:layout_width="245dp"
-        android:layout_height="46dp"
+        android:layout_width="364dp"
+        android:layout_height="47dp"
         android:backgroundTint="@color/black"
         android:text="SHARE"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.186"
+        app:layout_constraintHorizontal_bias="0.489"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.14" />
+        app:layout_constraintVertical_bias="0.145" />
 
     <Button
         android:id="@+id/btn_mpesa"
-        android:layout_width="211dp"
-        android:layout_height="38dp"
+        android:layout_width="356dp"
+        android:layout_height="46dp"
         android:backgroundTint="#0C685F"
         android:text="MPESA"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.145"
+        app:layout_constraintHorizontal_bias="0.454"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.618" />
+        app:layout_constraintVertical_bias="0.624" />
 
     <Button
         android:id="@+id/btn_dial"
-        android:layout_width="190dp"
-        android:layout_height="35dp"
+        android:layout_width="358dp"
+        android:layout_height="47dp"
         android:backgroundTint="#2196F3"
         android:text="DIAL"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.131"
+        app:layout_constraintHorizontal_bias="0.433"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.725" />
+        app:layout_constraintVertical_bias="0.741" />
 
     <Button
         android:id="@+id/btn_email"
-        android:layout_width="138dp"
-        android:layout_height="34dp"
+        android:layout_width="356dp"
+        android:layout_height="50dp"
         android:backgroundTint="#E58E0F"
         android:text="EMAIL"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.106"
+        app:layout_constraintHorizontal_bias="0.454"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.827" />
+        app:layout_constraintVertical_bias="0.845" />
 </androidx.constraintlayout.widget.ConstraintLayout>
