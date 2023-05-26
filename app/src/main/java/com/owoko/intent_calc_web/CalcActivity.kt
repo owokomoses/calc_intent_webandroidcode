@@ -37,6 +37,8 @@ class CalcActivity : AppCompatActivity() {
                 tvanswer.text = answer.toString()
             }
 
+            
+
             buttonminus.setOnClickListener {
                 val firstnum = edtfirstnum.text.toString()
                 val secondnum = edtsecondnum.text.toString()
